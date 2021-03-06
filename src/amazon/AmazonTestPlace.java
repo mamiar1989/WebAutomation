@@ -12,7 +12,7 @@ public class AmazonTestPlace extends AmazonTestTools {
         driver.findElement(By.id("nav-logo-sprites")).click();
     }
 
-    @Test(priority =  6)
+    @Test(priority = 2)
     public static void testLanguageSwitch() throws InterruptedException {
         driver.findElement(By.xpath("//*[@id=\"icp-nav-flyout\"]/span/span[2]/span[1]")).click();
         sleepFor(4);
@@ -22,9 +22,17 @@ public class AmazonTestPlace extends AmazonTestTools {
         sleepFor(4);
         driver.navigate().back();
     }
+
     @Test(priority = 3)
-    public static void amazonCustomerService(){
+    public static void amazonCustomerService() {
         driver.findElement(By.xpath("//*[@id=\"nav-xshop\"]/a[4]")).click();
     }
+
+
+    @Test(priority = 4)
+    public static void amazonFindGift() throws InterruptedException {
+        driver.findElement(By.xpath("//*[@id=\"nav-xshop\"]/a[10]")).click();
+        Thread.sleep(6000);
     }
 
+    }
