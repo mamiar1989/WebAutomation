@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6cbba45-f8cc-4057-b7ad-1f7ef15a6b46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Amazon/src/test/java/features/HomePage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Amazon/src/test/java/features/SignUp.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/BDDFrameWorkMARIAAmiar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/BrowserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/BrowserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/BrowserDriver/windows/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/utilities/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/utilities/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDDFrameWorkMARIAAmiar/Generic/src/main/java/utilities/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/Interview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/Basic/Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/Basic/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/Basic/MainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/Basic/ScannerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/Basic/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/LearIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/LearnIfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/LearnNestedIfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/LearnSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/controlflow/forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/exceptionHandeling/LearnExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/exceptionHandeling/SalaryCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/learnEnum/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/learnEnum/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/learnEnum/LearnEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/learnEnum/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/Conditionaloperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/FindTheGreatestOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/LearnArethmethicOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/LearnAssignementOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/LearnEquityAndRelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/LearnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/LearnUrinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/operators/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/random/Switchst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnRestAPIAutomation_WeekendAfternoon_Selenium_NY_Fall2020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Amazon1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Amazon1/src/main/java/homepage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Amazon1/src/main/java/homepage/HomePageWebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Amazon1/src/test/java/homepagetest/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Amazon1/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/CNN/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Cigna/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/BrowserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/BrowserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/BrowserDriver/windows/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/common/WebApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/utilities/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/utilities/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/java/utilities/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/Generic/src/main/resources/secret.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/MariaWebAutomationFramework_2012.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MariaWebAutomationFramework_2012/TDBank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/AccessModifier2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/HelloWorld1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnCommenting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnEscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnNestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/basic/LearnVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/constructor/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/constructor/LearnConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/method/LearnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/MidTerm_WeekendAfternoon_Selenium_NY_Fall2020" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/MidTerm_WeekendAfternoon_Selenium_NY_Fall2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo5" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearnJava_WeekendAfternoon_Selenium_NY_Fall2020" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnJava_WeekendAfternoon_Selenium_NY_Fall2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidTerm_WeekendAfternoon_Selenium_NY_Fall2020" beforeDir="false" afterPath="$PROJECT_DIR$/../MidTerm_WeekendAfternoon_Selenium_NY_Fall2020" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebAutomation_WeekendAfternoon_Selenium_NY_Fall2020" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y6lWTs33wkfsbCoXUz6AZhvMho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6cbba45-f8cc-4057-b7ad-1f7ef15a6b46" name="Default Changelist" comment="" />
+      <created>1631579951256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631579951256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
